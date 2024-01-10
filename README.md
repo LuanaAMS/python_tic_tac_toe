@@ -1,3 +1,6 @@
+<a href="https://github.com/LuanaAMS/python_tic_tac_toe/edit/main/LEIAME.md" target="_blank"> PT-BR Version </a>
+
+
 # Python - Tic Tac Toe
 This project is a tic-tac-toe game made in Python that uses a simple strategy to always try to beat the player.
 
@@ -53,3 +56,4 @@ Contributions are welcome. To contribute, send an email to luana.ams04@gmail.com
 
 This project is licensed under the MIT License.
 
+<a href="https://github.com/LuanaAMS/python_tic_tac_toe/edit/main/LEIAME.md" target="_blank"> PT-BR Version </a>

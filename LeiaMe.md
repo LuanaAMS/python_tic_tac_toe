@@ -24,6 +24,7 @@ Bibliotecas "pandas", "IPython" and "time"
 
 ## Como jogar:
 Você pode acessar o jogo pelo Google Colaboratory nesse link:
+
 https://colab.research.google.com/drive/1b-41NmC9K2dhTPPwyKrAs54C8h7IsYbV?usp=sharing
 
 Além disso, pode seguir estas etapas para rodar localmente:
@@ -31,8 +32,8 @@ Além disso, pode seguir estas etapas para rodar localmente:
   - Clone o repositório do GitHub
   - Faça Download do arquivo "tabletop.xlsx", localizado neste repositório.
   - Instale as dependências no CMD:
-    pip install ipython
-    pip install pandas
+    'pip install ipython'
+    'pip install pandas'
   - Substitua na linha 7 e linha 325 o '/content/drive/MyDrive/Colab Notebooks/#.xlsx' pelo arquivo "tabletop.xlsx".
   - Execute o jogo
 

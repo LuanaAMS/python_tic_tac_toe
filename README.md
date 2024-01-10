@@ -1,4 +1,4 @@
-<a href="https://github.com/LuanaAMS/python_tic_tac_toe/main/LEIAME.md" target="_blank"> PT-BR Version </a>
+<a href="https://github.com/LuanaAMS/python_tic_tac_toe/blob/main/LEIAME.md" target="_blank"> PT-BR Version </a>
 
 
 ![Badge Finish](http://img.shields.io/static/v1?label=STATUS&message=FINISH&color=GREEN&style=for-the-badge)

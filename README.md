@@ -59,4 +59,4 @@ Contributions are welcome. To contribute, send an email to luana.ams04@gmail.com
 
 This project is licensed under the MIT License.
 
-<a href="https://github.com/LuanaAMS/python_tic_tac_toe/edit/main/LEIAME.md" target="_blank"> PT-BR Version </a>
+<a href="https://github.com/LuanaAMS/python_tic_tac_toe/blob/main/LEIAME.md" target="_blank"> PT-BR Version </a>

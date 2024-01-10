@@ -32,6 +32,7 @@ Além disso, pode seguir estas etapas para rodar localmente:
   - Clone o repositório do GitHub
   - Faça Download do arquivo "tabletop.xlsx", localizado neste repositório.
   - Instale as dependências no CMD:
+    
     'pip install ipython'
     
     'pip install pandas'

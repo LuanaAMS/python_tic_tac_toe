@@ -1,4 +1,4 @@
-# python_tic_tac_toe
+# python - Tic-Tac-Toe
 This project is a tic-tac-toe game made in Python that uses a simple strategy to always try to beat the player.
 
 ## What is Tic-Tac-Toe?

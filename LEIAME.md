@@ -1,4 +1,4 @@
-<a href="https://github.com/LuanaAMS/python_tic_tac_toe/edit/main/README.md" target="_blank"> English Version </a>
+<a href="https://github.com/LuanaAMS/python_tic_tac_toe/blob/main/README.md" target="_blank"> English Version </a>
 
 ![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
@@ -52,4 +52,4 @@ Contribuições são bem-vindas. Para contribuir, envie um e-mail para luana.ams
 Este projeto é licenciado sob a licença MIT.
 
 
-<a href="https://github.com/LuanaAMS/python_tic_tac_toe/edit/main/README.md" target="_blank"> English Version </a>
+<a href="https://github.com/LuanaAMS/python_tic_tac_toe/blob/main/README.md" target="_blank"> English Version </a>

@@ -19,8 +19,8 @@ A máquina usa uma estratégia simples que consiste em:
 Vale ressaltar que todas as decisões da máquina foram feitas usando apenas o recurso de gateway "IF", além de ter seus blocos de código organizados por "DEF".
 
 ## Requisitos:
-Python 3.8 ou superior
-Bibliotecas "pandas", "IPython" and "time"
+- Python 3.8 ou superior
+- Bibliotecas "pandas", "IPython" and "time"
 
 ## Como jogar:
 Você pode acessar o jogo pelo Google Colaboratory nesse link:
@@ -33,6 +33,7 @@ Além disso, pode seguir estas etapas para rodar localmente:
   - Faça Download do arquivo "tabletop.xlsx", localizado neste repositório.
   - Instale as dependências no CMD:
     'pip install ipython'
+    
     'pip install pandas'
   - Substitua na linha 7 e linha 325 o '/content/drive/MyDrive/Colab Notebooks/#.xlsx' pelo arquivo "tabletop.xlsx".
   - Execute o jogo

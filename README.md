@@ -30,6 +30,8 @@ https://colab.research.google.com/drive/1b-41NmC9K2dhTPPwyKrAs54C8h7IsYbV?usp=sh
 Additionally, you can follow these steps to run locally:
 
   - Clone the GitHub repository
+    
+  - Install Python
 
   - Download the file "tabletop.xlsx" from the repository.
 
@@ -39,7 +41,7 @@ Additionally, you can follow these steps to run locally:
     
     pip install pandas
 
-  - Replace the lines 7 and 325 with the path to the file "tabletop.xlsx".
+  - Replace the lines 7 and 325 with the path to the local file "tabletop.xlsx".
 
   - Run the game
 

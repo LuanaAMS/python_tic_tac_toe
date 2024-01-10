@@ -1,6 +1,9 @@
 <a href="https://github.com/LuanaAMS/python_tic_tac_toe/edit/main/LEIAME.md" target="_blank"> PT-BR Version </a>
 
 
+![Badge Finish](http://img.shields.io/static/v1?label=STATUS&message=FINISH&color=GREEN&style=for-the-badge)
+
+
 # Python - Tic Tac Toe
 This project is a tic-tac-toe game made in Python that uses a simple strategy to always try to beat the player.
 

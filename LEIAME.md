@@ -1,6 +1,6 @@
 <a href="https://github.com/LuanaAMS/python_tic_tac_toe/edit/main/README.md" target="_blank"> English Version </a>
 
-![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=EM%20FINALIZADO&color=GREEN&style=for-the-badge)
+![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
 
 # Python - Tic Tac Toe (Jogo da Velha)
 

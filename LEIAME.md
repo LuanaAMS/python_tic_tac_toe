@@ -1,3 +1,7 @@
+<a href="https://github.com/LuanaAMS/python_tic_tac_toe/edit/main/README.md" target="_blank"> English Version </a>
+
+![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=EM%20FINALIZADO&color=GREEN&style=for-the-badge)
+
 # Python - Tic Tac Toe (Jogo da Velha)
 
 Este projeto é um tic tac toe (Jogo da Velha) feito em Python que usa uma estratégia simples para sempre tentar vencer o jogador.
@@ -46,3 +50,6 @@ Contribuições são bem-vindas. Para contribuir, envie um e-mail para luana.ams
 
 ## Licença:
 Este projeto é licenciado sob a licença MIT.
+
+
+<a href="https://github.com/LuanaAMS/python_tic_tac_toe/edit/main/README.md" target="_blank"> English Version </a>

@@ -29,21 +29,36 @@ Vale ressaltar que todas as decisões da máquina foram feitas usando apenas o r
 - Bibliotecas "pandas", "IPython" and "time"
 
 ## Como jogar:
-Você pode acessar o jogo pelo Google Colaboratory nesse link:
 
-https://colab.research.google.com/drive/1b-41NmC9K2dhTPPwyKrAs54C8h7IsYbV?usp=sharing
+Você pode acessar o projeto de forma local por meio dessas etapas:
 
-Além disso, pode seguir estas etapas para rodar localmente:
+- Clone o repositório do GitHub
 
-  - Clone o repositório do GitHub
-  - Faça Download do arquivo "tabletop.xlsx", localizado neste repositório.
-  - Instale as dependências no CMD:
-    
+- Faça Download do arquivo "tabletop.xlsx", localizado neste repositório.
+
+- Instale as dependências no CMD:
+
     'pip install ipython'
-    
+
     'pip install pandas'
-  - Substitua na linha 7 e linha 325 o '/content/drive/MyDrive/Colab Notebooks/#.xlsx' pelo arquivo "tabletop.xlsx".
-  - Execute o jogo
+
+- Substitua na linha 7 e linha 321 o 'C:\tabletop.xlsx' pelo local em que baixou o arquivo "tabletop.xlsx".
+
+- Execute o jogo
+
+Além disso, poderá rodar pelo navegador utilizando o Google Colaboratory  por meio desse passo a passo:
+
+- Acesse o seguinte link: https://colab.research.google.com/drive/1b-41NmC9K2dhTPPwyKrAs54C8h7IsYbV?usp=sharing
+
+- Vá em "Arquivo" e em seguida "Salvar uma cópia no Drive"
+
+- Faça Download do arquivo "tabletop.xlsx", localizado neste repositório.
+
+- Na barra esquerda do Colaboratory, selecione o símbolo de pasta e após isso o Primeiro ícone (um papel com uma seta para cima).
+
+- Faça upload do arquivo "tabletop.xlsx" por meio deste ícone
+
+- Execute a célula "Código Principal"
 
 ## Contribuições:
 Contribuições são bem-vindas. Para contribuir, envie um e-mail para luana.ams04@gmail.com

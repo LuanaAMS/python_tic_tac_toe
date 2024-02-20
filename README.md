@@ -29,27 +29,34 @@ The computer uses a simple strategy that consists of:
 
 ## How to play:
 
-You can access the game through Google Colaboratory at this link:
+You can access the project locally through these steps:
 
-https://colab.research.google.com/drive/1b-41NmC9K2dhTPPwyKrAs54C8h7IsYbV?usp=sharing
+- Clone the GitHub repository.
+  
+- Download the "tabletop.xlsx" file located in this repository.
+  
+- Install the dependencies in CMD:
 
-Additionally, you can follow these steps to run locally:
+    'pip install ipython'
+    'pip install pandas'
 
-  - Clone the GitHub repository
-    
-  - Install Python
+- Replace 'C:\tabletop.xlsx' with the location where you downloaded the "tabletop.xlsx" file on line 7 and line 321.
 
-  - Download the file "tabletop.xlsx" from the repository.
+ - Execute the game.
 
-  - Install the dependencies in the CMD:
+Additionally, you can run it through the browser using Google Colaboratory by following these steps:
 
-    pip install ipython
-    
-    pip install pandas
+- Access the following link: https://colab.research.google.com/drive/1b-41NmC9K2dhTPPwyKrAs54C8h7IsYbV?usp=sharing
 
-  - Replace the lines 7 and 325 with the path to the local file "tabletop.xlsx".
+- Go to "File" and then "Save a copy in Drive".
 
-  - Run the game
+- Download the "tabletop.xlsx" file located in this repository.
+
+- In the left bar of Colaboratory, select the folder symbol and then the first icon (a paper with an arrow pointing up).
+
+- Upload the "tabletop.xlsx" file through this icon.
+
+- Execute the "Código Principal" cell.
 
 ## Contributions:
 

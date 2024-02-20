@@ -4,7 +4,7 @@ from IPython.display import clear_output as clear
 import time
 import pandas as pd
 
-jogo = pd.read_excel('/content/drive/MyDrive/Colab Notebooks/#.xlsx')
+jogo = pd.read_excel('C:\tabletop.xlsx')
 
 #Funções
 
@@ -318,7 +318,7 @@ def ganhou (): #Verifica se e quem ganhou
 #Código Principal
 
 #jogo em branco
-jogo = pd.read_excel('/content/drive/MyDrive/Colab Notebooks/#.xlsx')
+jogo = pd.read_excel('C:\tabletop.xlsx')
 tabela()
 
 #Quem começa?

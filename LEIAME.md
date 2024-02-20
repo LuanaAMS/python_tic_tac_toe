@@ -26,7 +26,7 @@ Vale ressaltar que todas as decisões da máquina foram feitas usando apenas o r
 
 ## Requisitos:
 - Python 3.8 ou superior
-- Bibliotecas "pandas", "IPython" and "time"
+- Bibliotecas "pandas", "IPython" e "time"
 
 ## Como jogar:
 

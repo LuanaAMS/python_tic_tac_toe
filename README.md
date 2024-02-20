@@ -38,6 +38,7 @@ You can access the project locally through these steps:
 - Install the dependencies in CMD:
 
     'pip install ipython'
+  
     'pip install pandas'
 
 - Replace 'C:\tabletop.xlsx' with the location where you downloaded the "tabletop.xlsx" file on line 7 and line 321.

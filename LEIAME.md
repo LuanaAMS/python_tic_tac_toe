@@ -48,8 +48,8 @@ Você pode acessar o projeto de forma local por meio dessas etapas:
 
 Além disso, poderá rodar pelo navegador utilizando o Google Colaboratory  por meio desse passo a passo:
 
-- Acesse o seguinte link: https://colab.research.google.com/drive/1b-41NmC9K2dhTPPwyKrAs54C8h7IsYbV?usp=sharing
-
+- Acesse o seguinte link: [Colaboratory-Jogo-da-Velha](https://colab.research.google.com/drive/1BbpGoDwUy2H_ui6IfMLb6VZL4Bof6n3_?usp=sharing)
+  
 - Vá em "Arquivo" e em seguida "Salvar uma cópia no Drive"
 
 - Faça Download do arquivo "tabletop.xlsx", localizado neste repositório.

@@ -5,7 +5,7 @@
 
 
 # Python - Tic Tac Toe
-This project is a tic-tac-toe game made in Python that uses a simple strategy to always try to beat the player.
+This project is a tic-tac-toe game made in Python and Pandas that uses a simple strategy to always try to beat the player.
 
 ## What is Tic-Tac-Toe?
 

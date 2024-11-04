@@ -4,7 +4,7 @@
 
 # Python - Tic Tac Toe (Jogo da Velha)
 
-Este projeto é um tic tac toe (Jogo da Velha) feito em Python que usa uma estratégia simples para sempre tentar vencer o jogador.
+Este projeto é um tic tac toe (Jogo da Velha) feito em Python e Pandas que usa uma estratégia simples para sempre tentar vencer o jogador.
 
 ## O que é um TIC TAC TOE (Jogo da Velha)?
 

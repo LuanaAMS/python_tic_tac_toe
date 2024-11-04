@@ -47,7 +47,7 @@ You can access the project locally through these steps:
 
 Additionally, you can run it through the browser using Google Colaboratory by following these steps:
 
-- Access the following link: https://colab.research.google.com/drive/1b-41NmC9K2dhTPPwyKrAs54C8h7IsYbV?usp=sharing
+- Access the following link: [Colaboratory-Tic-Tac-Toe](https://colab.research.google.com/drive/1BbpGoDwUy2H_ui6IfMLb6VZL4Bof6n3_?usp=sharing)
 
 - Go to "File" and then "Save a copy in Drive".
 
